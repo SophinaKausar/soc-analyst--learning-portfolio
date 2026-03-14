@@ -1,4 +1,3 @@
-
 [About Me](#about-me) • 
 [Projects](#projects) • 
 [TryHackMe Labs](#tryhackme-labs) • 
@@ -10,9 +9,7 @@
 ⧉ ⧉ ⧉
 </div>
 
-
-
-# Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
+# 🔷 Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
 Welcome to my cybersecurity learning portfolio!
 
@@ -28,8 +25,7 @@ Feel free to explore what I’ve been working on.
 ⧉ ⧉ ⧉
 </div>
 
-
-## About Me
+## 🛡️ About Me
 
 Cybersecurity graduate focused on Security Operations, SIEM monitoring, and threat detection.
 
@@ -37,98 +33,93 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 ⧉ ⧉ ⧉
 </div>
 
+## 🧰 Tools & Technologies
 
-## Tools & Technologies
-
-- Wazuh SIEM
-- Elastic Stack (Kibana)
-- Splunk
-- Wireshark
-- VirusTotal
-- Autopsy
-- Kali Linux
-
-<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
-⧉ ⧉ ⧉
-</div>
-
-
-- Skills
-- 
-• Log Analysis
-• Threat Hunting
-• Incident Investigation
-• Alert Triage
-• MITRE ATT&CK Mapping
-• Network Traffic Analysis
-• Malware Investigation
+- 🛡️ Wazuh SIEM  
+- 📊 Elastic Stack (Kibana)  
+- 🛰️ Splunk  
+- 🌐 Wireshark  
+- 🧪 VirusTotal  
+- 🗂️ Autopsy  
+- 🐉 Kali Linux  
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
 </div>
 
+## ⚙️ Skills
 
-## Projects
+- 🔍 Log Analysis  
+- 🎯 Threat Hunting  
+- 🛡️ Incident Investigation  
+- ⚡ Alert Triage  
+- 🧭 MITRE ATT&CK Mapping  
+- 🌐 Network Traffic Analysis  
+- 🧬 Malware Investigation  
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
 </div>
 
+## 📁 Projects
 
-### TryHackMe Labs
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+### 🔍 TryHackMe Labs  
 Hands-on investigations covering log analysis, threat hunting, and security monitoring.
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
 </div>
 
-
-### Wazuh SIEM Home Lab
+### 🛡️ Wazuh SIEM Home Lab
 
 <div style="border:1px solid #38bdf8; padding:15px; border-radius:10px; background:#0a0f1f; margin-bottom:15px;">
   
 ### 🔹 VPN Investigation  
-Hands-on analysis of VPN logs using Elastic Stack to identify suspicious authentication patterns.
+📊 Analysed VPN logs using Elastic Stack  
+🔍 Identified suspicious authentication patterns  
+🛡️ Applied SOC triage workflow  
 
 [View Project](projects/vpn-investigation.md)
 
 </div>
 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+## 🖥️ Platforms Used
+
+- TryHackMe  
+- Hack The Box  
+- Wazuh SIEM  
+- Elastic Stack (Kibana)  
+- Splunk  
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
 </div>
 
+## 🎓 Skills Demonstrated
 
-## Platforms Used
-
-- TryHackMe
-- Hack The Box
-- Wazuh SIEM
-- Elastic Stack (Kibana)
-- Splunk
-
-<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
-⧉ ⧉ ⧉
-</div>
-
-
-## Skills Demonstrated
-
-- Log analysis
-- SIEM investigations
-- Threat detection
-- Incident response
-- MITRE ATT&CK mapping
+- Log analysis  
+- SIEM investigations  
+- Threat detection  
+- Incident response  
+- MITRE ATT&CK mapping  
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
 </div>
 
-
-## TryHackMe Profile
-
-
-
+## 🧩 TryHackMe Profile
 
 [View my TryHackMe profile](https://tryhackme.com/p/Saf88)
+
+<div align="center" style="color:#38bdf8; margin-top:40px;">
+© 2026 Sophina Kausar — Cybersecurity Portfolio
+</div>
+>
