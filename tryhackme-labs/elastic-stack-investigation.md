@@ -24,4 +24,22 @@ User **Johnny Brown** continued to authenticate after termination on 1 January 2
 T1078 – Valid Accounts
 
 ## Conclusion
+
+# Elastic Stack Investigation
+
+## Objective
+Investigate VPN login activity.
+
+## Tools
+- Kibana
+- Elastic Stack
+
+## Query Used
+event.dataset : "vpn"
+
+## Findings
+Multiple failed login attempts detected.
+
+## MITRE ATT&CK
+T1110 - Brute Force
 The account may have been misused after termination, indicating possible credential compromise.
