@@ -1,6 +1,10 @@
-# SOC Analyst Portfolio
+# Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
-Hands-on cybersecurity labs and investigations documenting my journey toward becoming a SOC Analyst.
+Cybersecurity graduate with a strong interest in Security Operations (SOC), threat detection, and incident response. 
+
+I am building hands-on experience through home labs, TryHackMe investigations, and SIEM platforms such as Wazuh, Splunk, and the Elastic Stack. My focus is on log analysis, alert triage, and threat hunting aligned with real SOC workflows.
+
+This portfolio documents my practical cybersecurity projects and learning journey towards becoming a SOC Analyst.
 
 ---
 
@@ -19,6 +23,16 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 - VirusTotal
 - Autopsy
 - Kali Linux
+
+- Skills
+- 
+• Log Analysis
+• Threat Hunting
+• Incident Investigation
+• Alert Triage
+• MITRE ATT&CK Mapping
+• Network Traffic Analysis
+• Malware Investigation
 
 ## Projects
 
