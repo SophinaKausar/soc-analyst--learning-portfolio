@@ -8,7 +8,7 @@ Hands-on cybersecurity labs and investigations documenting my journey toward bec
 
 Cybersecurity graduate focused on Security Operations, SIEM monitoring, and threat detection.
 
----
+--- 
 
 ## Tools & Technologies
 
