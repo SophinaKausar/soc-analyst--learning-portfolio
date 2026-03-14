@@ -1,4 +1,4 @@
-## Navigation  
+
 [About Me](#about-me) • 
 [Projects](#projects) • 
 [TryHackMe Labs](#tryhackme-labs) • 
