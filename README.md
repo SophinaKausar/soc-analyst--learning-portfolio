@@ -25,7 +25,9 @@
 ### 🔹 SOC Analyst in Training  
 ### 🔹 Threat Detection | SIEM | Incident Response  
 
-Welcome to my cybersecurity learning portfolio!
+
+
+                                    Welcome to my cybersecurity learning portfolio!
 
 I’m a Cybersecurity Graduate with a growing passion for Security Operations, threat detection, and incident response.
 
