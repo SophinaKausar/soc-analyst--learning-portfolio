@@ -75,13 +75,7 @@ A simulated SOC environment built using Wazuh to detect and investigate suspicio
 
 ## TryHackMe Profile
 
-## Navigation  
-[About Me](#about-me) • 
-[Projects](#projects) • 
-[TryHackMe Labs](#tryhackme-labs) • 
-[Wazuh Home Lab](#wazuh-home-lab) • 
-[Tools & Technologies](#tools--technologies) • 
-[Contact](#contact)
+
 
 
 [View my TryHackMe profile](https://tryhackme.com/p/Saf88)
