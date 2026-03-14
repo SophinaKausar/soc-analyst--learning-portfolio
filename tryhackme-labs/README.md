@@ -14,3 +14,8 @@ Platforms used:
 - TryHackMe
 - Elastic Stack
 - SIEM investigations
+
+## Investigations
+
+- [Elastic Stack Investigation](elastic-stack-investigation.md)
+- [VPN Investigation](../projects/vpn-investigation.md)
