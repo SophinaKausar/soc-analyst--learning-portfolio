@@ -6,6 +6,11 @@
 [Tools & Technologies](#tools--technologies) • 
 [Contact](#contact)
 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+
 
 # Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
@@ -19,13 +24,19 @@ This space is where I document my projects, labs, and practical learning as I wo
 
 Feel free to explore what I’ve been working on.
 
----
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ## About Me
 
 Cybersecurity graduate focused on Security Operations, SIEM monitoring, and threat detection.
 
---- 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ## Tools & Technologies
 
@@ -37,6 +48,11 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 - Autopsy
 - Kali Linux
 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+
 - Skills
 - 
 • Log Analysis
@@ -47,15 +63,33 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 • Network Traffic Analysis
 • Malware Investigation
 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+
 ## Projects
+
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ### TryHackMe Labs
 Hands-on investigations covering log analysis, threat hunting, and security monitoring.
 
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+
 ### Wazuh SIEM Home Lab
 A simulated SOC environment built using Wazuh to detect and investigate suspicious activity.
 
----
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ## Platforms Used
 
@@ -65,7 +99,10 @@ A simulated SOC environment built using Wazuh to detect and investigate suspicio
 - Elastic Stack (Kibana)
 - Splunk
 
----
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ## Skills Demonstrated
 
@@ -75,7 +112,10 @@ A simulated SOC environment built using Wazuh to detect and investigate suspicio
 - Incident response
 - MITRE ATT&CK mapping
 
----
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
 
 ## TryHackMe Profile
 
