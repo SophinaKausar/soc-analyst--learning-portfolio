@@ -1,3 +1,11 @@
+<style>
+.main-content {
+    max-width: 1200px !important;
+    width: 100% !important;
+}
+</style>
+
+
 [🛡️ About Me](#about-me) • 
 [📁 Projects](#projects) • 
 [🔍 TryHackMe Labs](#tryhackme-labs) • 
