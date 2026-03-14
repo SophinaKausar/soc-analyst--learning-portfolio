@@ -1,9 +1,9 @@
-[About Me](#about-me) • 
-[Projects](#projects) • 
-[TryHackMe Labs](#tryhackme-labs) • 
-[Wazuh Home Lab](#wazuh-home-lab) • 
-[Tools & Technologies](#tools--technologies) • 
-[Contact](#contact)
+[🛡️ About Me](#about-me) • 
+[📁 Projects](#projects) • 
+[🔍 TryHackMe Labs](#tryhackme-labs) • 
+[🛡️ Wazuh Home Lab](#wazuh-home-lab) • 
+[🧰 Tools & Technologies](#tools--technologies) • 
+[📬 Contact](#contact)
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
@@ -122,4 +122,3 @@ Hands-on investigations covering log analysis, threat hunting, and security moni
 <div align="center" style="color:#38bdf8; margin-top:40px;">
 © 2026 Sophina Kausar — Cybersecurity Portfolio
 </div>
->
