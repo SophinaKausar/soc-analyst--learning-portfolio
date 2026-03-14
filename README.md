@@ -10,6 +10,16 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 
 ---
 
+## Tools & Technologies
+
+- Wazuh SIEM
+- Elastic Stack (Kibana)
+- Splunk
+- Wireshark
+- VirusTotal
+- Autopsy
+- Kali Linux
+
 ## Projects
 
 ### TryHackMe Labs
