@@ -1,3 +1,16 @@
+<div align="center" style="background:#0a0f1f; padding:15px; border-radius:10px; border:1px solid #38bdf8;">
+
+### 🔷 **Navigation Panel**
+
+[<span style="color:#38bdf8; font-weight:600;">About Me</span>](#about-me) •  
+[<span style="color:#38bdf8; font-weight:600;">Projects</span>](#projects) •  
+[<span style="color:#38bdf8; font-weight:600;">TryHackMe Labs</span>](#tryhackme-labs) •  
+[<span style="color:#38bdf8; font-weight:600;">Wazuh Home Lab</span>](#wazuh-home-lab) •  
+[<span style="color:#38bdf8; font-weight:600;">Tools & Technologies</span>](#tools--technologies) •  
+[<span style="color:#38bdf8; font-weight:600;">Contact</span>](#contact)
+
+</div>
+
 <div align="center">
 
 # 🔷 **Navigation**
