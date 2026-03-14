@@ -19,8 +19,8 @@
 
 # 🔷 Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio 
 
-<div style="background:#050a1a; padding:20px; border-radius:12px; border:1px solid #38bdf8; box-shadow:0 0 12px #38bdf8;">
-
+<div style="padding:20px; border-radius:12px; border:1px solid #38bdf8; box-shadow:0 0 12px #38bdf8;">
+    
 ### 🔹 Cybersecurity Graduate  
 ### 🔹 SOC Analyst in Training  
 ### 🔹 Threat Detection | SIEM | Incident Response  
