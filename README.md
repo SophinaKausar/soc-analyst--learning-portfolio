@@ -9,11 +9,15 @@
 
 # Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
-Cybersecurity graduate with a strong interest in Security Operations (SOC), threat detection, and incident response. 
+Welcome to my cybersecurity learning portfolio!
 
-I am building hands-on experience through home labs, TryHackMe investigations, and SIEM platforms such as Wazuh, Splunk, and the Elastic Stack. My focus is on log analysis, alert triage, and threat hunting aligned with real SOC workflows.
+I’m a Cybersecurity Graduate with a growing passion for Security Operations, threat detection, and incident response.
 
-This portfolio documents my practical cybersecurity projects and learning journey towards becoming a SOC Analyst.
+I’m currently building hands‑on experience through home labs, TryHackMe investigations, and working with SIEM platforms like Wazuh, Splunk, and the Elastic Stack. My focus is developing real SOC skills — log analysis, alert triage, threat hunting, and understanding how defenders respond to real‑world threats.
+
+This space is where I document my projects, labs, and practical learning as I work towards becoming a SOC Analyst.
+
+Feel free to explore what I’ve been working on.
 
 ---
 
