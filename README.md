@@ -1,3 +1,17 @@
+<div align="center">
+
+# 🔷 **Navigation**
+
+[<span style="color:#38bdf8;">About Me</span>](#about-me) •  
+[<span style="color:#38bdf8;">Projects</span>](#projects) •  
+[<span style="color:#38bdf8;">TryHackMe Labs</span>](#tryhackme-labs) •  
+[<span style="color:#38bdf8;">Wazuh Home Lab</span>](#wazuh-home-lab) •  
+[<span style="color:#38bdf8;">Tools & Technologies</span>](#tools--technologies) •  
+[<span style="color:#38bdf8;">Contact</span>](#contact)
+
+</div>
+
+
 # Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
 Cybersecurity graduate with a strong interest in Security Operations (SOC), threat detection, and incident response. 
