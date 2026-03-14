@@ -1,10 +1,10 @@
+<!-- Make the page wider -->
 <style>
 .main-content {
     max-width: 1200px !important;
     width: 100% !important;
 }
 </style>
-
 
 [🛡️ About Me](#about-me) • 
 [📁 Projects](#projects) • 
@@ -19,6 +19,12 @@
 
 # 🔷 Sophina Kausar | Cybersecurity Graduate | SOC Analyst Portfolio
 
+<div style="background:#050a1a; padding:20px; border-radius:12px; border:1px solid #38bdf8; box-shadow:0 0 12px #38bdf8;">
+
+### 🔹 Cybersecurity Graduate  
+### 🔹 SOC Analyst in Training  
+### 🔹 Threat Detection | SIEM | Incident Response  
+
 Welcome to my cybersecurity learning portfolio!
 
 I’m a Cybersecurity Graduate with a growing passion for Security Operations, threat detection, and incident response.
@@ -27,7 +33,17 @@ I’m currently building hands‑on experience through home labs, TryHackMe inve
 
 This space is where I document my projects, labs, and practical learning as I work towards becoming a SOC Analyst.
 
-Feel free to explore what I’ve been working on.
+</div>
+
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+## 🎯 Why SOC?
+
+I’m driven by the challenge of detecting threats before they become incidents.  
+I enjoy analysing logs, understanding attacker behaviour, and strengthening defensive controls.  
+My goal is to become a SOC Analyst who can contribute to real-world security operations.
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
@@ -71,17 +87,6 @@ Cybersecurity graduate focused on Security Operations, SIEM monitoring, and thre
 
 ## 📁 Projects
 
-<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
-⧉ ⧉ ⧉
-</div>
-
-### 🔍 TryHackMe Labs  
-Hands-on investigations covering log analysis, threat hunting, and security monitoring.
-
-<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
-⧉ ⧉ ⧉
-</div>
-
 ### 🛡️ Wazuh SIEM Home Lab
 
 <div style="border:1px solid #38bdf8; padding:15px; border-radius:10px; background:#0a0f1f; margin-bottom:15px;">
@@ -94,6 +99,13 @@ Hands-on investigations covering log analysis, threat hunting, and security moni
 [View Project](projects/vpn-investigation.md)
 
 </div>
+
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+## 🔍 TryHackMe Labs  
+Hands-on investigations covering log analysis, threat hunting, and security monitoring.
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
@@ -126,6 +138,16 @@ Hands-on investigations covering log analysis, threat hunting, and security moni
 ## 🧩 TryHackMe Profile
 
 [View my TryHackMe profile](https://tryhackme.com/p/Saf88)
+
+<div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
+⧉ ⧉ ⧉
+</div>
+
+## 📬 Contact
+
+- 📧 Email: *add your email here*  
+- 🔗 LinkedIn: *add your LinkedIn here*  
+- 💻 GitHub: *your GitHub profile*  
 
 <div align="center" style="color:#38bdf8; margin-top:40px;">
 © 2026 Sophina Kausar — Cybersecurity Portfolio
