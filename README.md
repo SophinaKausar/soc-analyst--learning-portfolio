@@ -84,7 +84,16 @@ Hands-on investigations covering log analysis, threat hunting, and security moni
 
 
 ### Wazuh SIEM Home Lab
-A simulated SOC environment built using Wazuh to detect and investigate suspicious activity.
+
+<div style="border:1px solid #38bdf8; padding:15px; border-radius:10px; background:#0a0f1f; margin-bottom:15px;">
+  
+### 🔹 VPN Investigation  
+Hands-on analysis of VPN logs using Elastic Stack to identify suspicious authentication patterns.
+
+[View Project](projects/vpn-investigation.md)
+
+</div>
+
 
 <div align="center" style="color:#38bdf8; font-weight:600; margin: 30px 0;">
 ⧉ ⧉ ⧉
